@@ -1,0 +1,33 @@
+li {
+  list-style: none;
+}
+
+.heade select {
+  background: none;
+  border: none;
+  color: white;
+  padding-top: 3px;
+}
+.heade .link {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  margin-left: 50px;
+}
+.heade .doun {
+  margin-left: 50px;
+}
+.heade .legor {
+  background: #000;
+}
+.heade .verb {
+  width: 200px;
+}
+.heade .btn_1 {
+  color: white;
+  font-size: 19px;
+}
+.heade .btn_1:hover {
+  color: white;
+  border: none;
+}/*# sourceMappingURL=index.css.map */
